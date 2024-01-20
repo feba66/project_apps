@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "user_app"
+		},
+		{
+			"path": "sample_app"
+		},
+		{
+			"path": "app_blueprints"
+		}
+	],
+	"settings": {}
+}
