@@ -1,0 +1,6 @@
+[submodule "user_app"]
+	path = user_app
+	url = git@github.com:feba66/user_app.git
+[submodule "sample_app"]
+	path = sample_app
+	url = git@github.com:feba66/sample_app.git
