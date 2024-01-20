@@ -13,5 +13,9 @@
 			"path": "app_blueprints"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"prettier.configPath": ".prettierrc",
+		"prettier.printWidth": 160,
+		"html.format.wrapLineLength": 160
+	}
 }
